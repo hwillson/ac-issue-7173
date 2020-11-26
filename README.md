@@ -1,6 +1,6 @@
 # ac-issue-7173
 
-`keyArgs` with `variables` example`.
+`keyArgs` with `variables` example.
 
 ## Demo steps
 
