@@ -1,6 +1,6 @@
 # ac-issue-7173
 
-`keyArgs` with `variables` example.
+`keyArgs` with `variables` example (see https://github.com/apollographql/apollo-client/issues/7173).
 
 ## Demo steps
 
